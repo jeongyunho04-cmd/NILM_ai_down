@@ -1,0 +1,3 @@
+"""
+NILM AI Test Suite
+"""
